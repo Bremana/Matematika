@@ -10,8 +10,8 @@ sudo apt update
 sudo apt upgrade
 sudo apt install git
 sudo apt install python2
-git clone
-cd 
+git clone https://github.com/MrSlyker/Matematika
+cd Matematika
 python2 perhitungan.py
 
 # Install Di Termux
@@ -19,8 +19,8 @@ python2 perhitungan.py
 pkg update
 pkg upgrade
 pkg install git
-git clone
-cd
+git clone https://github.com/MrSlyker/Matematika
+cd Matematika
 python2 perhitungan.py
 
 # Penutup
